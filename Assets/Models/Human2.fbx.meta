@@ -1,0 +1,155 @@
+fileFormatVersion: 2
+guid: 5053642a9c972ef40b7c2770fbb67426
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: body
+    100002: Character_Head
+    100004: Character_Hips
+    100006: Character_LeftArm
+    100008: Character_LeftFoot
+    100010: Character_LeftForeArm
+    100012: Character_LeftHand
+    100014: Character_LeftLeg
+    100016: Character_LeftShoulder
+    100018: Character_LeftUpLeg
+    100020: Character_Neck
+    100022: Character_Reference
+    100024: Character_RightArm
+    100026: Character_RightFoot
+    100028: Character_RightForeArm
+    100030: Character_RightHand
+    100032: Character_RightLeg
+    100034: Character_RightShoulder
+    100036: Character_RightUpLeg
+    100038: Character_Spine
+    100040: Character_Spine1
+    100042: human
+    100044: //RootNode
+    100046: pants
+    100048: pants_default
+    100050: shirt_default
+    100052: shirts
+    100054: Character_LeftFingerBase
+    100056: Character_RightFingerBase
+    400000: body
+    400002: Character_Head
+    400004: Character_Hips
+    400006: Character_LeftArm
+    400008: Character_LeftFoot
+    400010: Character_LeftForeArm
+    400012: Character_LeftHand
+    400014: Character_LeftLeg
+    400016: Character_LeftShoulder
+    400018: Character_LeftUpLeg
+    400020: Character_Neck
+    400022: Character_Reference
+    400024: Character_RightArm
+    400026: Character_RightFoot
+    400028: Character_RightForeArm
+    400030: Character_RightHand
+    400032: Character_RightLeg
+    400034: Character_RightShoulder
+    400036: Character_RightUpLeg
+    400038: Character_Spine
+    400040: Character_Spine1
+    400042: human
+    400044: //RootNode
+    400046: pants
+    400048: pants_default
+    400050: shirt_default
+    400052: shirts
+    400054: Character_LeftFingerBase
+    400056: Character_RightFingerBase
+    2100000: Default Material1
+    2100002: shirt_default_mat
+    2100004: pants_default_mat
+    4300000: body
+    4300002: shirt_default
+    4300004: pants_default
+    9500000: //RootNode
+    13700000: body
+    13700002: pants_default
+    13700004: shirt_default
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.02
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
